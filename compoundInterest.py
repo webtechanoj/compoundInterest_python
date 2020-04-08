@@ -1,4 +1,5 @@
-# Calculate the compound interest 
+# V 1.1 Calculate the compound interest Test commit
+ 
 
 def compound_interest(principle, rate, time, frequency):
     result = principle * (pow((1 + rate), 24*time))
